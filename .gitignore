@@ -1,0 +1,10 @@
+.vscode
+# Python:
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+dist
+build
+__pycache__
+test
